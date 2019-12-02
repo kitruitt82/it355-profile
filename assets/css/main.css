@@ -1611,7 +1611,8 @@ input, select, textarea {
 		#banner h2 {
 			font-size: 3.3em;
 			color: #ffffff;
-			text-shadow: black;
+			text-shadow: black 2px 2px 3px;
+
 			text-align: center;
 			letter-spacing: -2px;
 			margin: 0;
