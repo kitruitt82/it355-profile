@@ -1645,7 +1645,7 @@ input, select, textarea {
 
 /* Copyright */
 
-	#copyright {
+	#contact {
 		text-align: center;
 		color: #A6A88F;
 		border-top: solid 1px #ced0b7;
@@ -1653,7 +1653,7 @@ input, select, textarea {
 		margin: 3em 0 0 0;
 	}
 
-		#copyright a {
+		#contact a {
 			color: #A6A88F;
 		}
 
